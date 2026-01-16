@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://xatimg.com/image/p0L7ZDQy9fD9.jpg" alt="𝐓𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒.𝟔" width="1080">
+<img src= "https://xatimg.com/image/p0L7ZDQy9fD9.jpg" alt="GOAT BOT V4.6" width="1080">
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard/Download && git clone https://github.com/TED-BOT-OFC/TED-BOT-V4.6
+cd /sdcard/Download && git clone https://github.com/TED-BOT-OFC/Goat-Bot-V4.6
 ```
 **4° Comando**
 ```
-cd /storage/emulated/0/Download/TED-BOT-V4.6 && npm install --force --no-bin-links && npm start
+cd /storage/emulated/0/Download/Goat-Bot-V4.6 && npm install --force --no-bin-links && npm start
 ```
 
 ## 💾 START DO BOT 💾 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
