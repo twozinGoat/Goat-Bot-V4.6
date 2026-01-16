@@ -22,7 +22,7 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard/Download && git clone https://github.com/TED-BOT-OFC/Goat-Bot-V4.6
+cd /sdcard/Download && git clone https://github.com/twozinGoat/Goat-Bot-V4.6
 ```
 **4° Comando**
 ```
