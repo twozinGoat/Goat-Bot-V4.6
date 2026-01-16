@@ -34,4 +34,4 @@ cd /storage/emulated/0/Download/Goat-Bot-V4.6 && npm install --force --no-bin-li
 npm start
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=╰•★𝐓𝐄𝐃-𝐁𝐎𝐓-𝐕𝟒.𝟔★•╯"> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=╰•Goat-Bot•╯"> 
