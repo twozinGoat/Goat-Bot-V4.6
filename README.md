@@ -22,11 +22,11 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard/Download && git clone https://github.com/twozinGoat/Goat-Bot-V4.6
+cd /sdcard/Download && git clone https://github.com/twozinGoat/botGoat-V4.6
 ```
 **4° Comando**
 ```
-cd /storage/emulated/0/Download/Goat-Bot-V4.6 && npm install --force --no-bin-links && npm start
+cd /storage/emulated/0/Download/botGoat-V4.6 && npm install --force --no-bin-links && npm start
 ```
 
 ## 💾 START DO BOT 💾 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
